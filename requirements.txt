@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+langchain-groq
+groq
+crawl4ai
+playwright
+python-dotenv
+streamlit
+beautifulsoup4
+requests
